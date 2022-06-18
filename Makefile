@@ -5,10 +5,11 @@
 #                                                     +:+ +:+         +:+      #
 #    By: salmanso <salmanso@student.42abudhabi.ae>  +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2021/09/06 09:51:37 by ajordan-          #+#    #+#              #
-#    Updated: 2022/02/12 19:34:53 by salmanso         ###   ########.fr        #
+#    Created: 2022/06/18 20:08:58 by salmanso          #+#    #+#              #
+#    Updated: 2022/06/18 20:09:01 by salmanso         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
+
 
 #Variables
 
@@ -30,7 +31,7 @@ YELLOW		= \033[0;33m
 BLUE		= \033[0;34m
 CYAN		= \033[0;36m
 
-#Sources
+#Sourcess
 
 SRC_FILES	=	ft_printf ft_put_pointer ft_put_str ft_put_unsigned ft_putnbr_hex
 
